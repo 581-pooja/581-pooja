@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Developent
 - 💞️ I’m looking to collaborate on Solving problem Unemployment in India and help people solve real world problem using my skills
 - 📫 How to reach me :
-Instagram https://www.instagram.com/pooja_bhagat581/
+- Email: PoojaBhagat5801@gmail.com
 
 <!---
 581-pooja/581-pooja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
